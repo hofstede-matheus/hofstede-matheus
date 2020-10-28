@@ -9,7 +9,7 @@ Generalist developer, with Backend and team leadership trend. Minimalist in mate
 - <img src="https://cubos.io/favicon.435e484e.png" width="16px"> Working @ Cubos Tecnologia
 - 
 
-### ⚙️ Main Languages and Tools:
+## ⚙️ Main Languages and Tools:
 <code> <img alt="android" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code> <img alt="kotlin" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code> <img alt="java" height="20" src="https://logospng.org/download/java/logo-java-256.png"></code>
@@ -21,9 +21,12 @@ Generalist developer, with Backend and team leadership trend. Minimalist in mate
 <code> <img alt="flutter" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code> <img alt="flutter" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-### 🏗️ Projects:
+## 🏗️ Projects:
+### <a href="https://hofs.dev/beta/">Beta</a>
+> Landing Page <code> <img alt="react" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+- Landing Page 
 
-### 📬 Get in Touch
+## 📬 Get in Touch
 - .󠀠🌐 <a href="https://hofs.dev/">My website</a>
 - <img height="20px" src="https://cdn.sstatic.net/Sites/br/Img/favicon.ico?v=20661a71f17b"> <a href="https://pt.stackoverflow.com/users/205108/matheus-hofstede">StackOverflow</a>
 - <img height="20px" src="https://github.githubassets.com/favicons/favicon.png"> <a href="https://github.com/hofstede-matheus">Github</a>
