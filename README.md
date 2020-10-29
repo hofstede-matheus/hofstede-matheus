@@ -40,6 +40,8 @@ Generalist developer, with Backend and team leadership trend. Minimalist in mate
  <code><a href="#" title="JavaScript"><img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="20px"></a></code>
  <code><a href="#" title="Materialize"><img alt="Materialize" src="https://materializecss.com/images/favicon/apple-touch-icon-152x152.png" height="20px"></a></code>
  
+ ### <a target="_blank" href="https://www.instagram.com/acelera.dev/">acelera.dev</a>
+ 
 
 ## 📬 Get in Touch
 - .󠀠🌐 <a target="_blank" href="https://hofs.dev/">My website</a>
