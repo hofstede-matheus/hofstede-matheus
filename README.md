@@ -28,19 +28,19 @@ Generalist developer, with Backend and team leadership trend. Minimalist in mate
  App <code><a href="#" title="Android"><img alt="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" height="20px"></a></code>
  <code><a href="#" title="Kotlin"><img alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" height="20px"></a></code>
  
- ### <a target="_blank" href="https://hofs.dev/hetorde/">Het or De? - Given a dutch noum, find with article to use</a>
+ ### <a target="_blank" href="https://hofs.dev/hetorde/">Het or De?</a> - Given a dutch noum, find with article to use
  Landing Page <code><a href="#" title="React"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="20px"></a></code>
  <code><a href="#" title="Material UI"><img alt="Material UI" src="https://material-ui.com/static/favicon.ico" height="20px"></a></code>
  
  App <code><a href="#" title="Android"><img alt="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" height="20px"></a></code>
  <code><a href="#" title="Kotlin"><img alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" height="20px"></a></code>
  
-  ### <a target="_blank" href="https://hofstede-matheus.github.io/css-to-react-json/">css-to-react-json - Convert pure css to react style json</a>
+  ### <a target="_blank" href="https://hofstede-matheus.github.io/css-to-react-json/">css-to-react-json</a> - Convert pure css to react style json
  WebApp <code><a href="#" title="HTML"><img alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="20px"></a></code>
  <code><a href="#" title="JavaScript"><img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="20px"></a></code>
  <code><a href="#" title="Materialize"><img alt="Materialize" src="https://materializecss.com/images/favicon/apple-touch-icon-152x152.png" height="20px"></a></code>
  
- ### <a target="_blank" href="https://www.instagram.com/acelera.dev/">acelera.dev - Instagram profile to share computer science knowledge</a>
+ ### <a target="_blank" href="https://www.instagram.com/acelera.dev/">acelera.dev</a> - Instagram profile to share computer science knowledge
  
 
 ## 📬 Get in Touch
