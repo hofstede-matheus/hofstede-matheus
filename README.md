@@ -21,7 +21,7 @@ Generalist developer, with Backend and team leadership trend. Minimalist in mate
 <code> <img alt="flutter" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ## 🏗️ Projects:
-### <a target="_blank" href="https://hofs.dev/beta/">Beta</a>
+### <a href="https://hofs.dev/beta/" target="_blank">Beta</a>
  Landing Page <code><a href="#" title="React"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="20px"></a></code>
  <code><a href="#" title="Material UI"><img alt="Material UI" src="https://material-ui.com/static/favicon.ico" height="20px"></a></code>
  
