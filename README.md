@@ -7,7 +7,6 @@ Generalist developer, with Backend and team leadership trend. Minimalist in mate
 - 🏎️ Gearhead (one who loves cars) that played almost every game in Gran Turismo series.
 - 📈 Diligent investor with buy-and-hold mindset
 - <img src="https://cubos.io/favicon.435e484e.png" width="16px"> Working @ Cubos Tecnologia
-- 
 
 ## ⚙️ Main Languages and Tools:
 <code> <img alt="android" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
