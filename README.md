@@ -24,7 +24,8 @@ Generalist developer, with Backend and team leadership trend. Minimalist in mate
 ### <a href="https://hofs.dev/beta/">Beta</a>
  Landing Page <code><a href="#" title="React"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="20px"></a></code>
  <code><a href="#" title="Material UI"><img alt="React" src="https://material-ui.com/static/favicon.ico" height="20px"></a></code>
-- Landing Page 
+ App <code><a href="#" title="React"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="20px"></a></code>
+ <code><a href="#" title="Material UI"><img alt="React" src="https://material-ui.com/static/favicon.ico" height="20px"></a></code>
 
 ## 📬 Get in Touch
 - .󠀠🌐 <a href="https://hofs.dev/">My website</a>
