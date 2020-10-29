@@ -21,14 +21,14 @@ Generalist developer, with Backend and team leadership trend. Minimalist in mate
 <code> <img alt="flutter" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ## 🏗️ Projects:
-### <a href="https://hofs.dev/beta/">Beta</a>
+### <a target="_blank" href="https://hofs.dev/beta/">Beta</a>
  Landing Page <code><a href="#" title="React"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="20px"></a></code>
  <code><a href="#" title="Material UI"><img alt="Material UI" src="https://material-ui.com/static/favicon.ico" height="20px"></a></code>
  
  App <code><a href="#" title="Android"><img alt="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" height="20px"></a></code>
  <code><a href="#" title="Kotlin"><img alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" height="20px"></a></code>
  
- ### <a href="https://hofs.dev/hetorde/">Het or De?</a>
+ ### <a target="_blank" href="https://hofs.dev/hetorde/">Het or De?</a>
  Landing Page <code><a href="#" title="React"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="20px"></a></code>
  <code><a href="#" title="Material UI"><img alt="Material UI" src="https://material-ui.com/static/favicon.ico" height="20px"></a></code>
  
@@ -37,9 +37,9 @@ Generalist developer, with Backend and team leadership trend. Minimalist in mate
  
 
 ## 📬 Get in Touch
-- .󠀠🌐 <a href="https://hofs.dev/">My website</a>
-- <img height="20px" src="https://cdn.sstatic.net/Sites/br/Img/favicon.ico?v=20661a71f17b"> <a href="https://pt.stackoverflow.com/users/205108/matheus-hofstede">StackOverflow</a>
-- <img height="20px" src="https://github.githubassets.com/favicons/favicon.png"> <a href="https://github.com/hofstede-matheus">Github</a>
-- <img height="20px" src="https://static-exp1.licdn.com/sc/h/1bt1uwq5akv756knzdj4l6cdc"> <a href="https://www.linkedin.com/in/hofstede-matheus/">LinkedIn</a>
-- <img height="20px" src="https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png"> <a href="https://medium.com/@hofstede.matheus">Medium</a>
+- .󠀠🌐 <a target="_blank" href="https://hofs.dev/">My website</a>
+- <img height="20px" src="https://cdn.sstatic.net/Sites/br/Img/favicon.ico?v=20661a71f17b"> <a target="_blank" href="https://pt.stackoverflow.com/users/205108/matheus-hofstede">StackOverflow</a>
+- <img height="20px" src="https://github.githubassets.com/favicons/favicon.png"> <a target="_blank" href="https://github.com/hofstede-matheus">Github</a>
+- <img height="20px" src="https://static-exp1.licdn.com/sc/h/1bt1uwq5akv756knzdj4l6cdc"> <a target="_blank" href="https://www.linkedin.com/in/hofstede-matheus/">LinkedIn</a>
+- <img height="20px" src="https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png"> <a target="_blank" href="https://medium.com/@hofstede.matheus">Medium</a>
 
