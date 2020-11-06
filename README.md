@@ -43,6 +43,13 @@ Generalist developer, with Backend and team leadership trend. Minimalist in mate
  
  ### <a target="_blank" href="https://www.instagram.com/acelera.dev/">acelera.dev</a> - Instagram profile to share computer science knowledge
  
+ ### <a target="_blank" href="https://walke.app/">Walke</a> - Walke is a portfolio sharing network, where investors can manage their investments and benchmark with other investors
+ Frontend <code><a href="#" title="React"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="20px"></a></code>
+ <code><a href="#" title="Material UI"><img alt="Material UI" src="https://material-ui.com/static/favicon.ico" height="20px"></a></code>
+ 
+ Backend <code><a href="#" title="Laravel"><img alt="Laravel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" height="20px"></a></code>
+ <code><a href="#" title="Nodejs"><img alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="20px"></a></code>
+ 
 
 ## 📬 Get in Touch
 - .󠀠🌐 <a target="_blank" href="https://hofs.dev/gh">My website</a>
