@@ -60,7 +60,7 @@ Generalist developer, with Backend and team leadership trend. Minimalist in mate
 - <img height="20px" src="https://cdn.sstatic.net/Sites/br/Img/favicon.ico?v=20661a71f17b"> <a target="_blank" href="https://pt.stackoverflow.com/users/205108/matheus-hofstede">StackOverflow</a>
 - <img height="20px" src="https://github.githubassets.com/favicons/favicon.png"> <a target="_blank" href="https://github.com/hofstede-matheus">Github</a>
 - <img height="20px" src="https://static-exp1.licdn.com/sc/h/1bt1uwq5akv756knzdj4l6cdc"> <a target="_blank" href="https://www.linkedin.com/in/hofstede-matheus/">LinkedIn</a>
-- <img height="20px" src="https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png"> <a target="_blank" href="https://medium.com/@hofstede.matheus">Medium</a>
+- <img height="20px" src="https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png"> <a target="_blank" href="https://hofstede-matheus.medium.com/">Medium</a>
 - <img height="20px" src="http://d35aaqx5ub95lt.cloudfront.net/favicon.ico"> <a target="_blank" href="https://www.duolingo.com/profile/matheushofstede">Duolingo</a>
 - <img height="20px" src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png"> <a target="_blank" href="https://www.hackerrank.com/hofstede_matheus">Hacker Rank</a>
 
