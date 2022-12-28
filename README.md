@@ -1,29 +1,28 @@
-# Hoi, alles goed? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ("Hi, how are you?" in good Dutch)
+# Hoi, alles goed? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Generalist developer, with Backend and team leadership trend. Minimalist in material things, but not that much when it comes to knowledge.
 
 
-- 🎓 Currently studying [Information Systems](https://ufba.br/cursos/sistemas-de-informa%C3%A7%C3%A3o-bacharelado) (Sistemas de Informação) @ Federal University of Bahia
+- 🎓 [Information Systems](https://ufba.br/cursos/sistemas-de-informa%C3%A7%C3%A3o-bacharelado) (Sistemas de Informação) @ Federal University of Bahia, expected graduation in Summer 2023.
 - 🏎️ Gearhead (one who loves cars) that played almost every game in Gran Turismo series.
 - 📈 Diligent investor with buy-and-hold mindset
 - <img src="https://cubos.io/favicon.435e484e.png" width="16px"> Working @ Cubos Tecnologia
 
 ## ⚙️ Main Languages and Tools:
+
+<code> <img alt="javascript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code> <img alt="javascript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code> <img alt="nodejs" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code> <img alt="react" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code> <img alt="nestjs" height="20" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"></code>
+<code> <img alt="nextjs" height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
+
+<code> <img alt="mongodb" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code> <img alt="postgresql" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+
 <code> <img alt="kotlin" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code> <img alt="android" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code> <img alt="java" height="20" src="https://logospng.org/download/java/logo-java-256.png"></code>
-<code> <img alt="nodejs" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code> <img alt="javascript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code> <img alt="mongodb" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code> <img alt="postgresql" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code> <img alt="nestjs" height="20" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"></code>
-<code> <img alt="php" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code> <img alt="laravel" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code> <img alt="react" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code> <img alt="dart" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code> <img alt="flutter" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code> <img alt="python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ## 🏗️ Projects:
 ### <a target="_blank" href="https://hofs.dev/beta/">Beta</a>  - Brazilian stocks data right at your hand
@@ -40,8 +39,6 @@ Generalist developer, with Backend and team leadership trend. Minimalist in mate
  App <code><a href="#" title="Android"><img alt="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" height="20px"></a></code>
  <code><a href="#" title="Kotlin"><img alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" height="20px"></a></code>
  
- ### <a target="_blank" href="https://www.instagram.com/acelera.dev/">acelera.dev</a> - Instagram profile to share computer science knowledge
- 
  ### <a target="_blank" href="https://walke.app/">Walke</a> - Walke is a portfolio sharing network, where investors can manage their investments and benchmark with other investors
  Frontend <code><a href="#" title="React"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="20px"></a></code>
  <code><a href="#" title="Material UI"><img alt="Material UI" src="https://material-ui.com/static/favicon.ico" height="20px"></a></code>
@@ -57,6 +54,15 @@ Generalist developer, with Backend and team leadership trend. Minimalist in mate
  ### <a target="_blank" href="https://hofstede-matheus.github.io/simulador-compras-internacionais/">simulador-compras-internacionais</a> - Simulate international purchases in brazilian reais
  WebApp <code><a href="#" title="React"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="20px"></a></code>
  <code><a href="#" title="Material UI"><img alt="Material UI" src="https://material-ui.com/static/favicon.ico" height="20px"></a></code>
+ 
+  ### <a target="_blank" href="https://nota-de-corretagem-to-csv.web.app/">nota-de-corretagem-to-csv</a> - Parse Brazilian pdf brokerage notes to a CSV with each operation and its values.
+ WebApp 
+<code><a href="#" title="React"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="20px"></a></code>
+ <code><a href="#" title="Material UI"><img alt="Material UI" src="https://material-ui.com/static/favicon.ico" height="20px"></a></code>
+ 
+  Backend
+ <code><a href="#" title="Nodejs"><img alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="20px"></a></code>
+ 
  
 
 ## 📬 Get in Touch
